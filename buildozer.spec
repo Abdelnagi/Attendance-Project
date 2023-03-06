@@ -2,7 +2,7 @@
 
 # (str) Title of your application
 title = My App
-
+vesversion = 1.0
 # (str) Package name
 package.name = com.example.myapp
 
